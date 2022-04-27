@@ -1,0 +1,13 @@
+# ignore the jupyter checkpoints
+.ipynb_checkpoints/*
+
+notebooks/.ipynb_checkpoints/*
+
+# ignore data folder contents
+data/*
+
+# ignore app folder contents
+app/*
+
+# ignore DS_Store
+.DS_Store
